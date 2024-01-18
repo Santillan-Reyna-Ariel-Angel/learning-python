@@ -1,2 +1,7 @@
 # ignorar el virtual envarionment:
 /venv/
+
+# ignorar el archivo de con figuracion de vscode:
+/.vscode
+/.vscode/*
+/.vscode/settings.json
